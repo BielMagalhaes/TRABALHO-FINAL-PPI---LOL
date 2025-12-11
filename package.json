@@ -1,0 +1,34 @@
+{
+  "name": "trabalho-final-ppi---lol",
+  "version": "1.0.0",
+  "description": "Trabalho Final PPI ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BielMagalhaes/TRABALHO-FINAL-PPI---LOL.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "cookie",
+    "session"
+  ],
+  "author": "Gabriel Magalhaes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BielMagalhaes/TRABALHO-FINAL-PPI---LOL/issues"
+  },
+  "homepage": "https://github.com/BielMagalhaes/TRABALHO-FINAL-PPI---LOL#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "session": "^0.1.0"
+  }
+}
